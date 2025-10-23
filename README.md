@@ -23,12 +23,13 @@
 # 自己搭建节点教程
 ### 节点搭建使用CF的方式部署
 - CF网站：https://dash.cloudflare.com/
-- 部署项目地址：https://github.com/WLget/wk-Auto-update
+- 部署项目地址：https://github.com/bia-pain-bache/BPB-Worker-Panel/tree/v3.4.3
 
 ## 部署步骤
 
 - 创建项目：在cloudflare 后台- 左侧点击【pages】—【创建项目】
-- 登录 Cloudflare 后台 → 左侧点击【Pages】→ 【创建项目】 选择 连接到 GitHub： 选择你的 Fork 仓库 允许 Cloudflare Pages 读取你的 GitHub 仓库权限 项目基本配置： 项目名字自己取，比如 cf-auto-update 分支选择 main
+- 登录 Cloudflare 后台 → 左侧点击【Pages】→ 【创建项目】 选择 从 Hello World! 开始 创建应用 --> 编辑代码 --> 这里需要上面项目中右侧“Releases” 点开 --> 下载“worker.js
+  到本地，打开复制里面的代码保存
 
 ### 配置环境变量（Varidbles）
 - 在 Pages 项目设置里：
@@ -50,6 +51,7 @@
 ### 访问面板
 - 部署完成后：
 - 访问你的 Pages 地址，比如： https://your-project-name.pages.dev/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+
 
 
 
