@@ -47,10 +47,12 @@
   2. 创建一个新的命名空间（比如叫 test）
   3. 回到 Pages 项目的【Settings → KV Bindings】
   4. 添加绑定： -Binding Name Namespace -kv 你刚才创建的 test ✅ Binding Name 必须是 kv 小写，保持和代码对应！
+  5. 一切都完成之后，必须要绑定域名，没有域名的话注册一个域名，要不然无法访问配置面板的地址！
 
 ### 访问面板
 - 部署完成后：
-- 访问你的 Pages 地址，比如： https://your-project-name.pages.dev/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+- 访问你的 Pages 地址，比如： https://your-URL/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+
 
 
 
