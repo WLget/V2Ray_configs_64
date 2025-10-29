@@ -22,17 +22,9 @@
 
   ### 客户端下载
   
-|  客户端  | Windows  | Android  | iOS  |
+|  客户端  | Clash for Windows  | Clash Verge rev  | NekoBox for Android  |
 |  ----  | ----   | ----  |----  |
-| Clash  | [Clash](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/0.20.39.3) |/| /|
-
-|  客户端  | Windows  | Android  | iOS  |
-|  ----  | ----   | ----  |----  |
-| Clash Verge  | [Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.2) |/| /|
-
-|  客户端  | Windows  | Android  | iOS  |
-|  ----  | ----   | ----  |----  |
-| NekoBox | /|[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.0) | /|
+| Clash  | [Clash](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/0.20.39.3) |[Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.2) | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.0) |
 
 # 自己搭建节点教程
 ### 节点搭建使用CF的方式部署
@@ -66,6 +58,7 @@
 ### 访问面板
 - 部署完成后：
 - 访问你的 Pages 地址，比如： https://your-URL/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+
 
 
 
