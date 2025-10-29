@@ -21,7 +21,7 @@
 - `http://103.143.238.196:20211/`
 
   ###客户端下载
-  |  客户端  | Windows  | Android  | iOS  |
+|  客户端  | Windows  | Android  | iOS  |
 |  ----  | ----   | ----  |----  |
 | Clash  | [Clash](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/0.20.39.3) |/| /|
 
@@ -65,6 +65,7 @@
 ### 访问面板
 - 部署完成后：
 - 访问你的 Pages 地址，比如： https://your-URL/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+
 
 
 
