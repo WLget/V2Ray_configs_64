@@ -14,6 +14,7 @@
 # v2ray免费节点订阅
 ### [订阅地址：]()
 `https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt`
+`http://59.33.33.157:18080/v2ray.txt`
 
 # Clash免费节点订阅
 ### [订阅地址：]() 下列订阅地址已测试Clash/Clash Verge/NekoBox软件均可使用，复制到软件下载，其他暂未测试！
@@ -59,6 +60,7 @@
 ### 访问面板
 - 部署完成后：
 - 访问你的 Pages 地址，比如： https://your-URL/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+
 
 
 
