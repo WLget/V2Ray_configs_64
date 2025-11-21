@@ -30,38 +30,18 @@
 |  ----  | ----   | ----  |----  |
 | more  | [Clash](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/0.20.39.3) |[Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.2) | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.0) |
 
-# 自己搭建节点教程
-### 节点搭建使用CF的方式部署
-- CF网站：https://dash.cloudflare.com/
-- 部署项目地址：https://github.com/bia-pain-bache/BPB-Worker-Panel/tree/v3.4.3
+# 稳定飞机场推荐
+### 魔戒
+- 地址：https://mojie.app/register?aff=XHFxrLoP
+- 这个飞机场的节点非常稳定，已经实测，价格优惠，具体套餐看下图：
+<img width="1566" height="544" alt="image" src="https://github.com/user-attachments/assets/b5360a77-2588-4383-8e8d-d8edd819eb1e" />
+<img width="1579" height="515" alt="image" src="https://github.com/user-attachments/assets/b58e8cde-a7aa-449e-be61-a2c3472117a8" />
+<img width="533" height="516" alt="image" src="https://github.com/user-attachments/assets/23f24d4f-ae2f-443b-9283-c1fbf8e95d3d" />
 
-## 部署步骤
 
-- 创建项目：在cloudflare 后台- 左侧点击【pages】—【创建项目】
-- 登录 Cloudflare 后台 → 左侧点击【Pages】→ 【创建项目】 选择 从 Hello World! 开始 创建应用 --> 编辑代码 --> 这里需要上面项目中右侧“Releases” 点开 --> 下载“worker.js
-  到本地，打开（需要编程软件才能打开）--> 复制里面的代码保存
 
-### 配置环境变量（Varidbles）
-- 在 Pages 项目设置里：
-- 打开 【设置 Settings】→ 【环境变量 Environment Variables】 -添加这些变量：
-  
-|  变量名称（注意： 变量名字全大写！）  | 释义 |
-|  ----  | ----   |
-|  UUID  | 自己需要生成一个UUID，可以去这个网站生成https://1024tools.com/uuid  |
-|  TR_PASS  | 自己设一个密码  |
-|  FALLBACK  | 设置成example.com  |
-### 配置KV 存储绑定
-- Pages Functions 也可以使用 KV， -需要绑定 KV 存储桶。
-- 步骤：
-- 1. Cloudflare 后台左侧【Workers & KV】→ 【KV 存储】
-  2. 创建一个新的命名空间（比如叫 test）
-  3. 回到 Pages 项目的【Settings → KV Bindings】
-  4. 添加绑定： -Binding Name Namespace -kv 你刚才创建的 test ✅ Binding Name 必须是 kv 小写，保持和代码对应！
-  5. 一切都完成之后，必须要绑定域名，没有域名的话注册一个域名，要不然无法访问配置面板的地址！
 
-### 访问面板
-- 部署完成后：
-- 访问你的 Pages 地址，比如： https://your-URL/panel 第一次访问，会让你设置后台管理密码 进入后台后，可以自由开关协议（Trojan、VLess 等），生成订阅链接
+
 
 
 
