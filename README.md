@@ -34,9 +34,11 @@
 ### 魔戒
 - 地址：https://mojie.app/register?aff=XHFxrLoP
 - 这个飞机场的节点非常稳定，已经实测，价格优惠，具体套餐看下图：
-<img width="1566" height="544" alt="image" src="https://github.com/user-attachments/assets/b5360a77-2588-4383-8e8d-d8edd819eb1e" />
-<img width="1579" height="515" alt="image" src="https://github.com/user-attachments/assets/b58e8cde-a7aa-449e-be61-a2c3472117a8" />
-<img width="533" height="516" alt="image" src="https://github.com/user-attachments/assets/23f24d4f-ae2f-443b-9283-c1fbf8e95d3d" />
+<img width="1576" height="576" alt="image" src="https://github.com/user-attachments/assets/3a5aa761-571a-4225-9c93-090d6f6a67ec" /><img width="1578" height="522" alt="image" src="https://github.com/user-attachments/assets/c7e6a68d-ff9a-432d-9edd-dd5047f798dc" /><img width="410" height="413" alt="image" src="https://github.com/user-attachments/assets/24273dea-0254-49dd-9a4f-d9e8591c18e3" />
+
+
+
+
 
 
 
