@@ -10,7 +10,7 @@
 # v2rayN[节点导入方法]()
 - 1. 在订阅配置页面，增加订阅下方免费节点订阅地址，更新订阅获取节点
 - 2. 在下方节点分享 → 右边点击复制 → 打开V2Ray软件 → 点击左上角服务器 → 从剪贴板导入分享链接，即可一键导入所有v2ray节点
-     <span style="color: red;">这是一个红色的结果展示。</span>
+  
 # v2ray免费节点订阅
 ### [订阅地址：]()
 `https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt`
@@ -29,6 +29,7 @@
 - 地址：https://mojie.app/register?aff=XHFxrLoP
 - 这个飞机场的节点非常稳定，已经实测，价格优惠，具体套餐看下图：
 <img width="1576" height="576" alt="image" src="https://github.com/user-attachments/assets/3a5aa761-571a-4225-9c93-090d6f6a67ec" /><img width="1578" height="522" alt="image" src="https://github.com/user-attachments/assets/c7e6a68d-ff9a-432d-9edd-dd5047f798dc" /><img width="410" height="413" alt="image" src="https://github.com/user-attachments/assets/24273dea-0254-49dd-9a4f-d9e8591c18e3" />
+
 
 
 
