@@ -2,6 +2,7 @@
 # v2ray节点订阅 每日更新 更新时间：2025-12-01 12:06:10
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
+# 客户端下载
 |  客户端  | Android  | Windows  | iOS  | Clash for Windows  | Clash Verge rev  | NekoBox for Android  |
 |  ----  | ----   | ----  |----  | ----   | ----  |----  |
 | v2ray  | [v2rayNG](https://github.com/v2fly/v2ray-core/releases/download/v5.32.0/v2ray-android-arm64-v8a.zip) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/7.12.3/v2rayN-windows-64-desktop.zip) | [OneClick]() | [Clash](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/tag/0.20.39.3) |[Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.4.2) | [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.0) |
@@ -28,6 +29,7 @@
 - 地址：https://mojie.app/register?aff=XHFxrLoP
 - 这个飞机场的节点非常稳定，已经实测，价格优惠，具体套餐看下图：
 <img width="1576" height="576" alt="image" src="https://github.com/user-attachments/assets/3a5aa761-571a-4225-9c93-090d6f6a67ec" /><img width="1578" height="522" alt="image" src="https://github.com/user-attachments/assets/c7e6a68d-ff9a-432d-9edd-dd5047f798dc" /><img width="410" height="413" alt="image" src="https://github.com/user-attachments/assets/24273dea-0254-49dd-9a4f-d9e8591c18e3" />
+
 
 
 
