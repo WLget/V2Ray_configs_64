@@ -20,7 +20,6 @@
 # Clash免费节点订阅
 ### [订阅地址：]() 下列订阅地址已测试Clash/Clash Verge/NekoBox软件均可使用，复制到软件下载，其他暂未测试！
 - `https://subconverters.com/sub?target=clash&url=http%3A%2F%2F103.143.238.196%3A20211%2F&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true`
-- `http://103.143.238.196:20211/`
 - `http://59.33.33.157:18080/clash.yaml`
 - `http://132.226.169.119/clash.yaml`
 
@@ -29,6 +28,7 @@
 - 点击右边蓝色字前往：[魔戒注册地址](https://mojie.app/register?aff=XHFxrLoP)
 - 这个飞机场的节点非常稳定，已经实测，价格优惠，具体套餐看下图：
 <img width="1576" height="576" alt="image" src="https://github.com/user-attachments/assets/3a5aa761-571a-4225-9c93-090d6f6a67ec" /><img width="1578" height="522" alt="image" src="https://github.com/user-attachments/assets/c7e6a68d-ff9a-432d-9edd-dd5047f798dc" /><img width="410" height="413" alt="image" src="https://github.com/user-attachments/assets/24273dea-0254-49dd-9a4f-d9e8591c18e3" />
+
 
 
 
