@@ -57,7 +57,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           # 提交信息包含日期
-          commit_message: "自动同步代码，日期：${{ steps.set_vars.outputs.date }}"
+          commit_message: "自动同步，日期：${{ steps.set_vars.outputs.date }}"
           # 仅提交被修改的目标文件
           file_pattern: ${{ env.TARGET_FILE }}
           # 请根据您的实际主分支名称修改此处
