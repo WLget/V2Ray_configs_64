@@ -2,12 +2,12 @@ name: 每日自动代码同步
 
 # 触发器：
 on:
-  # 1. 每日定时触发 (UTC 时间 01:00，即北京时间 09:00 AM)
+  push:
+    branches:
+      - main
   schedule:
-    # cron 格式: 分 时 日 月 周
-    - cron: '0 1 * * *'
-  # 2. 允许手动触发，方便测试
-  workflow_dispatch:
+    - cron: '0 */3 * * *'   # 每 3 小时运行（UTC 时间）
+  workflow_dispatch:        # 可选：支持手动触发[1,7](@ref)
 
 # 环境变量配置
 env:
