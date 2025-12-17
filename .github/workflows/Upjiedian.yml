@@ -60,5 +60,5 @@ jobs:
           commit_message: "自动同步代码，日期：${{ steps.set_vars.outputs.date }}"
           # 仅提交被修改的目标文件
           file_pattern: ${{ env.TARGET_FILE }}
-          # 确保分支名称正确 (通常是 main 或 master)
-          branch: main 
+          # 请根据您的实际主分支名称修改此处
+          branch: master 
