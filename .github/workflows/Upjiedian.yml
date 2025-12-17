@@ -1,0 +1,64 @@
+name: 每日自动代码同步
+
+# 触发器：
+on:
+  # 1. 每日定时触发 (UTC 时间 01:00，即北京时间 09:00 AM)
+  schedule:
+    # cron 格式: 分 时 日 月 周
+    - cron: '0 1 * * *'
+  # 2. 允许手动触发，方便测试
+  workflow_dispatch:
+
+# 环境变量配置
+env:
+  # 【必填】替换成您要获取代码的网址
+  SOURCE_URL: "https://openproxylist.com/v2ray/rawlist/subscribe" 
+  # 【必填】替换成您希望代码保存到的本地文件名
+  TARGET_FILE: "content.txt" 
+  
+jobs:
+  sync_code:
+    name: 获取并同步代码内容
+    runs-on: ubuntu-latest
+    
+    # 授予工作流写入权限，以便提交文件
+    permissions:
+      contents: write
+      
+    steps:
+      # 1. 检出仓库代码
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      # 2. 设置动态日期，用于提交信息
+      - name: 设置动态日期
+        id: set_vars
+        run: |
+          # 获取当前日期和时间
+          DATE=$(date +%Y-%m-%d)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+
+      # 3. 获取远程 URL 内容并写入本地文件
+      - name: 获取远程代码内容
+        run: |
+          echo "正在从 ${SOURCE_URL} 获取内容..."
+          # 使用 curl -sL 获取内容，并覆盖写入 TARGET_FILE
+          curl -sL "${{ env.SOURCE_URL }}" > ${{ env.TARGET_FILE }}
+          
+          # 检查文件是否成功获取
+          if [ ! -s ${{ env.TARGET_FILE }} ]; then
+            echo "错误：未能获取内容或文件为空。"
+            exit 1
+          fi
+          echo "内容已成功写入 ${{ env.TARGET_FILE }}"
+
+      # 4. 提交更改
+      - name: 提交更新后的文件
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # 提交信息包含日期
+          commit_message: "自动同步代码，日期：${{ steps.set_vars.outputs.date }}"
+          # 仅提交被修改的目标文件
+          file_pattern: ${{ env.TARGET_FILE }}
+          # 确保分支名称正确 (通常是 main 或 master)
+          branch: main 
