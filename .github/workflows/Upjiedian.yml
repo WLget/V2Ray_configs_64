@@ -1,4 +1,4 @@
-name: 每日自动代码同步
+name: copy jiedian
 
 # 触发器：
 on:
