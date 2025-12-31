@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 */3 * * *'   # 每 3 小时运行（UTC 时间）
+    - cron: '0 */2 * * *'   # 每 2 小时运行（UTC 时间）
   workflow_dispatch:        # 可选：支持手动触发[1,7](@ref)
     
 jobs:
