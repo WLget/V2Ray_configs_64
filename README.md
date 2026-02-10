@@ -37,6 +37,11 @@
 <img width="1171" height="622" alt="image" src="https://github.com/user-attachments/assets/e14bc360-d7bf-4341-94ef-cba1c209e2f6" />
 <img width="1399" height="527" alt="image" src="https://github.com/user-attachments/assets/4dd8f45a-05d6-453b-b586-5f9275526ee0" />
 
+### 交易所收款截图
+<img width="1222" height="479" alt="image" src="https://github.com/user-attachments/assets/0badfe58-94ef-475b-8221-497b917746e5" />
+
+
+
 
 
 
