@@ -13,7 +13,7 @@
   
 # v2ray免费节点订阅
 ### [订阅地址：]()
-`https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt`
+```https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt```
 
 `http://59.33.33.157:18080/v2ray.txt`
 
@@ -39,6 +39,7 @@
 
 ### 交易所收款截图
 <img width="1222" height="479" alt="image" src="https://github.com/user-attachments/assets/0badfe58-94ef-475b-8221-497b917746e5" />
+
 
 
 
