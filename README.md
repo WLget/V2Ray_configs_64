@@ -15,7 +15,13 @@
 ### [订阅地址：]()
 ```https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt```
 
-`http://59.33.33.157:18080/v2ray.txt`
+`http://137.175.44.100:8080/sub64.txt`
+
+`http://137.175.44.100:8080/cfws-clash.yaml`
+
+`http://107.172.199.58:8080/sub.txt`
+
+`http://107.172.199.58:8080/clash.yaml`
 
 # Clash免费节点订阅
 ### [订阅地址：]() 下列订阅地址已测试Clash/Clash Verge/NekoBox软件均可使用，复制到软件下载，其他暂未测试！
