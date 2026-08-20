@@ -22,7 +22,7 @@
 `http://192.220.56.72/sub.txt`
 
 ### [节点复制可用：]()
-`hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?sni=vps.vpsv.cc&insecure=0#Tokyo-Hy2-UDP443`
+`ss://YWVzLTI1Ni1nY206QW1lcmljYTIwMjZATEFY@192.220.55.35:48378#America-SS`
 
 `hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?sni=bing.com&insecure=1#SG-Hysteria2`
 
