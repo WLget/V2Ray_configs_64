@@ -22,12 +22,11 @@
 `http://192.220.56.72/sub.txt`
 
 ### [节点复制可用：]()
-`ss://YWVzLTI1Ni1nY206QW1lcmljYTIwMjZATEFY@192.220.55.35:48378#America-SS`
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRZW85WUo2cWtUVUVWNm1UMmRnUHVyZDY%3D@207.57.129.169:8388#HK-Shadowsocks`
 
-`hysteria2://P6qkAwznuC076mbIR2cGPg%3D%3D@43.156.90.144:34567?sni=bing.com&insecure=1#SG-Hysteria2`
+`vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImVudHJ5LTIwNi4yMzcuMjAuNDQiLA0KICAiYWRkIjogIjIwNi4yMzcuMjAuNDQiLA0KICAicG9ydCI6ICI1NTIxNiIsDQogICJpZCI6ICIxNTRkYmMzOS0wOTIxLWNmMTEtMjliZC0xNTZjNTAwMGQ3NjMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=`
 
-`vless://1807dfaa-69dc-4beb-a8c3-d54de6fc05ac@43.156.90.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Tj5AjjTaac7dGrXJ1HCPsOJLPGYaQGIAc60ZN_EM_ys&sid=6ba85179e30d4fc2&type=tcp&headerType=none#SG-Reality
-`
+`vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImV4aXQtMTU1LjI0OC4xNzYuNDQiLA0KICAiYWRkIjogIjE1NS4yNDguMTc2LjQ0IiwNCiAgInBvcnQiOiAiNTUyMTYiLA0KICAiaWQiOiAiMTU0ZGJjMzktMDkyMS1jZjExLTI5YmQtMTU2YzUwMDBkNzYzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9`
 
 # Clash免费节点订阅
 ### [订阅地址：]() 下列订阅地址已测试Clash/Clash Verge/NekoBox软件均可使用，复制到软件下载，其他暂未测试！
