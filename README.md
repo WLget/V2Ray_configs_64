@@ -22,11 +22,11 @@
 `http://192.220.56.72/sub.txt`
 
 ### [节点复制可用：]()
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRZW85WUo2cWtUVUVWNm1UMmRnUHVyZDY%3D@207.57.129.169:8388#HK-Shadowsocks`
+`ss://YWVzLTI1Ni1nY206ZCtNT2JETmNTVXh3ZnRXWitpNHFSdz09@136.175.82.85:18000#VPS-SS`
 
 `vless://9a9a2876-404e-4cb0-8c9e-546f390a3bc0@192.3.20.155:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.debian.org&fp=chrome&pbk=8OtJJ5lKbMik_x628CcrqZczsPtiyyoFdNn7j4aneEs&sid=82eda5cc&type=tcp&headerType=none#MyNode-Reality`
 
-`vless://da7863a0-5858-4322-840e-0474e423bede@198.44.36.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=_0A8M6IEGN2T61KyqQOgiLlDu-dVcp0TFUyfukK5YhI&sid=55a7e6ff3ccf94c9&type=tcp&headerType=none#LA-VLESS`
+`vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&sid=25d14b49bd77142e&type=tcp&headerType=none#HK%E8%87%AA%E5%BB%BA`
 
 # Clash免费节点订阅
 ### [订阅地址：]() 下列订阅地址已测试Clash/Clash Verge/NekoBox软件均可使用，复制到软件下载，其他暂未测试！
