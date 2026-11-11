@@ -15,18 +15,16 @@
 ### [订阅地址：]()
 ```https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt```
 
-`http://45.135.119.16:2096/v2box-sub.txt`
+`http://143.246.60.254/sub.txt`
 
-`http://107.172.199.58:8080/sub.txt`
-
-`http://192.220.56.72/sub.txt`
+`http://43.155.182.152/sub.txt`
 
 ### [节点复制可用：]()
-`vless://4a54f9e1-1cb0-4873-8f35-38bcf1650966@23.94.251.190:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itunes.apple.com&fp=chrome&pbk=H-jO-7NT8LAkA9o8SOpFC-GeEqk-Jhpesmx5jJ_3n14&sid=312d6625929ec3df&type=tcp&headerType=none#Xray-REALITY`
+`vless://3a6ca9e9-79fa-4dc5-9da3-2fe7681575f4@wells.aisb.dpdns.org:443?encryption=none&security=tls&sni=wells.aisb.dpdns.org&type=ws&host=wells.aisb.dpdns.org&path=%2Fdac11c16a4b1#CF-VLESS-443`
 
-`hysteria2://2d9870365cfe1808c2cce1e1@8.235.3.233:8444?sni=www.bing.com&insecure=1#GCP-hy2`
+`trojan://l1i3439kt53JrNtYOCuFIm_J@wells.aisb.dpdns.org:2083?security=tls&sni=wells.aisb.dpdns.org&type=ws&host=wells.aisb.dpdns.org&path=%2Fdac11c16a4b1#CF-Trojan-2083`
 
-`ss://YWVzLTI1Ni1nY206al9aOXlXcUl0Q3pfOXloRDVZVlk0dw%3D%3D@185.239.141.248:8388#Happ-SS-FullTunnel`
+`vless://fa895069-bfe5-42c9-9f30-f918e1e442c1@143.246.60.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ccJ6xUaUhUxN6GEj6a1vqsQDNDTJJX1KYSURY5pJpBE&sid=eb68848e2575a1f4&type=tcp&headerType=none#MyVPN-US`
 
 # Clash免费节点订阅
 ### [订阅地址：]() 下列订阅地址已测试Clash/Clash Verge/NekoBox软件均可使用，复制到软件下载，其他暂未测试！
